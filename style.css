@@ -20,7 +20,11 @@ p{
 }
 
 
-html {
+body {
 
     background-color: #F5EEDC;
+}
+
+.header {
+  background-color: #97BFB4;
 }

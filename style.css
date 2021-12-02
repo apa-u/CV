@@ -1,0 +1,26 @@
+.profile{
+
+width: 120px;
+height: 120px;
+border-radius: 0 50px 50px 50px;
+margin: 2px;
+}
+
+h1,
+p{
+  text-align: justify;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+p{
+
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+
+html {
+
+    background-color: coral;
+}

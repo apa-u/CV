@@ -1,0 +1,25 @@
+img {
+
+
+    width: 640px;
+    height: auto;
+}
+
+ body, html {
+
+    margin: 20px;
+    border: 20px;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100%;
+    background-image:url(../Photos/background.jpg);
+    background-repeat: repeat;
+}
+
+#bg {
+
+    background: white;
+    text-align: justify;
+    padding: 20px;
+}
+

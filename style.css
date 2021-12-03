@@ -27,4 +27,14 @@ body {
 
 .header {
   background-color: #97BFB4;
+  border-radius: 25px;
+}
+
+hr {
+
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
 }

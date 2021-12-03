@@ -7,7 +7,9 @@ margin: 2px;
 }
 
 h1,
-p{
+p,
+.header,
+.header1{
   text-align: justify;
   font-family: Verdana, Tahoma, sans-serif;
 }
@@ -37,4 +39,16 @@ hr {
   border-color: grey;
   border-width: 5px;
   width:5%;
+}
+
+.header1 {
+
+  background-color: #DD4A48;
+  border-radius: 10px;
+}
+
+img{
+
+  width: 480px;
+  height: auto;
 }
